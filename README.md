@@ -34,14 +34,14 @@ implementar uma dessas entidades.</h4>
 
 <h2>🗺️Mapeamento das Entidade</h2>
 
-<h3>Usuário ↧</h3>
+<h3>Carros ↧</h3>
 
 ```
 ID (CHAVE PRIMÁRIA)
-Nome
-Email
-Fone
-data de Nascimento
+Marca
+Modelo
+Cor
+Ano
 
 ```
 
