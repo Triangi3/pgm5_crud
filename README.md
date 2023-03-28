@@ -45,4 +45,8 @@ Ano
 
 ```
 
+<h2>Para usar a aplicação<h2>
+⇨ Baixe este repositório
+⇨ Execute no Visual Code ou no seu software de preferência.
+
 
