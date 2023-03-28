@@ -46,14 +46,14 @@ Ano
 ```
 
 <h2>Para usar a aplicação<h2>
-⇨ Baixe este repositório
-⇨ Execute no Visual Code ou no seu software de preferência.
-⇨ abra um terminal e acesse a pasta api
-⇨ dentro da pasta api, pelo terminal, dê o comando npm i para instalar as dependências
-⇨ execute o back end no terminal com o comando Node index.js
-
-⇨ abra outro terminal e acesse a pasta frontend
-⇨ instale as dependências com npm i
-⇨ execute o frontend com o comando npm start.
+⇨ Baixe este repositório<br>
+⇨ Execute no Visual Code ou no seu software de preferência.<br>
+⇨ abra um terminal e acesse a pasta api<br>
+⇨ dentro da pasta api, pelo terminal, dê o comando npm i para instalar as dependências<br>
+⇨ execute o back end no terminal com o comando Node index.js<br>
+<br>
+⇨ abra outro terminal e acesse a pasta frontend<br>
+⇨ instale as dependências com npm i<br>
+⇨ execute o frontend com o comando npm start.<br>
 
 
