@@ -57,7 +57,9 @@ Ano
 ⇨ execute o frontend com o comando npm start.<br>
 
 <h3> Desenvolvido por <h3>
- ```
- Lucas Queiroz
-  
- ```
+ 
+```
+Lucas Queiroz
+
+
+```
