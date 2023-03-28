@@ -17,13 +17,13 @@ identificar as entidades.</h4>
 Utilizar o padrão MVC;<br>
 ⇨ Utilizar os verbos HTTP seguindo o padrão REST;<br>
 ⇨ Implementar todas as operações de CRUD;<br>
-⇨ Utilizar o padrão de projeto (design pattern) DAO para abstração de transações no banco, com Promises;<br>
+⇨ Utilizar o padrão de projeto (design pattern) para abstração de transações no banco, com Promises;<br>
 ⇨ Utilizar o README.md do repositório para documentação, contendo informações como:<br>
 ◼ Como instalar as dependências do projeto;<br>
 ◼ Como executar o projeto;<br>
 ◼ Quais são as rotas possíveis;<br>
 ◼ Quaisquer outros pontos que você achar necessários;<br>
-⇨ Utilização de async/await para operações no banco (DAO)<br>
+⇨ Utilização de async/await para operações no banco<br>
 ⇨ Ter o código fonte hospedado em um repositório no Github.<br>
 
 <h4>Nesse projeto você e sua squad serão responsáveis por
