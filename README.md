@@ -38,10 +38,10 @@ implementar uma dessas entidades.</h4>
 
 ```
 ID (CHAVE PRIMÁRIA)
-Marca
-Modelo
-Cor
-Ano
+Marca:
+Modelo:
+Cor:
+Ano:
 
 ```
 
