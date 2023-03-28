@@ -63,5 +63,6 @@ Lucas Queiroz
 Leonardo Corrêa
 Jonatan Silva
 Pedro Rocha
+Ingrid Sousa
 
 ```
