@@ -1,5 +1,5 @@
 import React from "react";
-import './styles/footer.css';
+import '../styles/footer.css';
 
 
 
@@ -13,7 +13,7 @@ function Footer() {
                         <h4>Para mais informações:</h4>
 
                         <a href="/#">
-                            <p>Sobre</p>
+                            <p>automaster@gmail.com</p>
                         </a>
 
                     </div>
@@ -21,26 +21,20 @@ function Footer() {
                     <h4>Quer falar com a gente?</h4>
 
                     <a href="/#">
-                            <p>Contatos</p>
+                            <p>Contato: (99) 9999-99999</p>
                         </a>
 
                     </div>
+                    
                     <div className="sb__footer-links_div">
-                    <h4>Venha fazer parte</h4>
+                    <h4>Endereço:</h4>
 
                     <a href="/#">
-                            <p>Inscrição</p>
+                            <p>Rua Dona Isabel, 700 - Bonsucesso</p>
                         </a>
+
                     </div>
-                    <div className="sb__footer-links_div">
-                        <h4>Já em outras redes</h4>1
-                        <div className="socialmedia">
-                            <p><img src={fb} alt=""/></p>
-                            <p><img src={insta} alt=""/></p>
-                            <p><img src={linkedin} alt=""/></p>
-                            <p><img src={twitter} alt=""/></p>
-                        </div>
-                    </div>
+                    
                 </div>
 
                 <hr></hr>
@@ -48,7 +42,7 @@ function Footer() {
             <div className="sb__footer-below">
                 <div className="sb__footer-copyright">
                     <p>
-                        @{new Date().getFullYear()} Yara. Todos os direitos reservados.
+                        @{new Date().getFullYear()} AUTOMASTER. Todos os direitos reservados.
                     </p>
                 </div>
                 <div className="sb__footer-below-links">
